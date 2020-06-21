@@ -1,0 +1,109 @@
+#information{
+
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-image:url("../images/h_img.jpg");
+}
+.aboutUs{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-style: initial;
+    text-align: center;
+}
+#logo {
+    margin-top: 10%;
+}
+#logo2 {
+    margin-top: 15%;
+}
+.OurService{
+    background-image: url(../images/s_image.jpg);
+    font-style: initial;
+    font-weight: bold;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    margin-top: 5%;
+    text-align: center;
+
+}
+.Service h2 {
+text-align: center;
+color: white;
+}
+.Service p {
+    text-align: center;
+    color: white;
+    margin-top: 1%;
+}
+.Pic {
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    opacity: 0%;
+    width: 80%;
+    border: 5px solid white;
+    padding: 4px;
+    margin: 5px;
+    height: 80%;
+    font-weight: bold;
+}
+.Project1 {
+    font-weight: 900;
+    color: white;
+}
+ .Project1 bold {
+     font-size: 35px;
+ }
+
+h2 {
+    text-align: center;
+}
+.Column {
+    padding: 15px;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.Column img {
+    width: 100%;
+}
+.Container3 {
+    background-image: url(../images/c_image.jpg);
+    background-position: center;
+    font-weight: bold;
+    background-size: cover;
+    color: white;
+    height: 70vh;
+    margin-top: 5%;
+    font-style: initial;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.ReachUs {
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: small;
+    font-display: bold;
+}
+
+  .Col-sm-3 img{
+    max-width: 100%;
+    height: auto;
+  }
+
+  .form-control {
+      background: transparent;
+      border: white 1px solid;
+      color: white;
+  }
