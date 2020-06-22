@@ -1,4 +1,4 @@
-#information{
+#Information{
 
     text-align: center;
     font-weight: bold;
@@ -8,39 +8,39 @@
     height: 100vh;
     background-image:url("../images/h_img.jpg");
 }
-.aboutUs{
+.AboutUS{
     margin-top: 50px;
     margin-bottom: 50px;
     font-style: initial;
     text-align: center;
 }
-#logo {
+#Dlogo {
     margin-top: 10%;
 }
-#logo2 {
+#Dlogo2 {
     margin-top: 15%;
 }
 .OurService{
     background-image: url(../images/s_image.jpg);
-    font-style: initial;
+    text-align: center;
     font-weight: bold;
     background-position: center;
     background-size: cover;
     height: 50vh;
     margin-top: 5%;
-    text-align: center;
-
+  font-style: initial;
+  text-align: center;
 }
-.Service h2 {
+.OurService h2 {
 text-align: center;
 color: white;
 }
-.Service p {
+.OurService p {
     text-align: center;
     color: white;
     margin-top: 1%;
 }
-.Pic {
+.Picture {
     color: black;
     position: absolute;
     top: 10%;
@@ -52,42 +52,40 @@ color: white;
     margin: 5px;
     height: 80%;
     font-weight: bold;
+
 }
-.Project1 {
+ .Project1 {
+    font-size: 35px;
     font-weight: 900;
     color: white;
-}
- .Project1 bold {
-     font-size: 35px;
  }
 
 h2 {
     text-align: center;
 }
-.Column {
+
+.column {
     padding: 15px;
     width: 100%;
     margin-top: 5%;
     margin-bottom: 10%;
 }
-.Column img {
+.column img {
     width: 100%;
 }
-.Container3 {
+.ContactsCont {
     background-image: url(../images/c_image.jpg);
-    background-position: center;
     font-weight: bold;
     background-size: cover;
     color: white;
     height: 70vh;
     margin-top: 5%;
-    font-style: initial;
     text-align: center;
     font-weight: bold;
-
+    background-position: center;
 }
 
-.ReachUs {
+.ContactUs {
     text-align: center;
     padding: 15px;
     width: 100%;
@@ -97,7 +95,7 @@ h2 {
     font-display: bold;
 }
 
-  .Col-sm-3 img{
+  .col-sm-3 img{
     max-width: 100%;
     height: auto;
   }
